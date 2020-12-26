@@ -18,7 +18,7 @@ Worked on:
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Shubham-tiwari123&column=6"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Shubham-tiwari123&column=6&margin-w=10"/>
 </a>
 
 ---
