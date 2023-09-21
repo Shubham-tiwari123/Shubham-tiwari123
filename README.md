@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shubham Tiwari
 
-#### I am a Software Engineer, developing cool stuffs @mzaalo, using Blockchain 
+#### I am a Software Engineer, developing cool stuffs @ZEE5, using Blockchain and different tech stack  
 
 Skills:
 
@@ -10,9 +10,9 @@ Worked on:
 
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' height='30'/>
 
-- 🔭 I’m currently working on [Mzaalo Blockchain](), a DLT based dispute resolution platform.
-- 🌱 I’m currently learning Blockchain and Android
-- 💬 Ask me about JAVA and J2EE
+- 🔭 I’m currently working at [ZEE5- SDE-1 | BLOCKCHAIN]().
+- 🌱 I’m currently learning Blockchain and Backend.
+- 💬 Ask me about JAVA, JS, BLOCKCHAIN
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-tiwari-977391187/) | [tiwari.23.shubham@gmail.com]() 
 
 ---
