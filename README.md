@@ -1,18 +1,19 @@
-### Hi there 👋, my name is Shubham Tiwari
+## Hi there 👋, my name is Shubham Tiwari
 
-#### I am a Software Engineer, developing cool stuffs @ZEE5, using Blockchain and different tech stack  
+Experienced Software Developer with **4+ years** of expertise in Java, SQL, and modern backend development. Specialized in **microservices architecture, subscription systems**, and **notification systems**. Strong background in **API design**, **system integration**, and **CI/CD deployment**. Proficient in blockchain technologies, with a solid foundation in **data structures** and **algorithms**. Proven ability to deliver high-quality solutions while fostering team collaboration and innovation.
 
-Skills:
 
-<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' height='35'/> <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' height='35' />
+### Skills:
 
-Worked on:
+<img src='https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white' height='35'/> <img src='https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff' height='35'/> <img src='https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white' height='35'/> 
 
-<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' height='30'/>
+### Worked on:
 
-- 🔭 I’m currently working at [ZEE5- SDE-1 | BLOCKCHAIN]().
-- 🌱 I’m currently learning Blockchain and Backend.
-- 💬 Ask me about JAVA, JS, BLOCKCHAIN
+<img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' height='30'/> <img src='https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff' height='30'/>
+
+- 🔭 I’m currently working at [SDE]().
+- 🌱 I’m currently learning Kafka and microservices.
+- 💬 Ask me about JAVA, JS, SPRING BOOT, DATABASE, BLOCKCHAIN
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shubham-tiwari-977391187/) | [tiwari.23.shubham@gmail.com]() 
 
 ---
